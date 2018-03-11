@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 <div style="clear: both"></div>
-<div id="nambahneh">
+<div id="rangtik">
 <?php include (TEMPLATEPATH . '/sidebar-left.php'); ?>
 <div id="content">
 <div class="post"> <h1><?php bloginfo('name'); ?></h1>

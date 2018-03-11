@@ -1,13 +1,13 @@
 /*  
-Theme Name: Firt Travel Project
+Theme Name: First Sleep Project
 Theme URI: http://openshift.io/
-Description: Theme with good<a href="http://form-review.b9ad.pro-us-east-1.openshiftapps.com/">user experience</a>.
-Version: 5.3.4
-Author: Be Real
+Description: Theme with good<a href="http://form-weather.b9ad.pro-us-east-1.openshiftapps.com/">user experience</a>.
+Version: 6.2.4
+Author: Be False
 Author URI: http://openshift.io/
 */
 
-#bersama{width:960px;margin-right:auto;margin-left:auto;background-color:#FFFFFF;border:1px solid #ff0000;}
+#gether{width:960px;margin-right:auto;margin-left:auto;background-color:#FFFFFF;border:1px solid #ff0000;}
 body{margin:0px auto 0px;padding:0px;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;font-size:12px;color:#000000;width:990px;background-color:#03ab62;}
 h1{font-size:19px;margin:0px;text-decoration:none;font-weight:bold;text-transform:capitalize;padding-right:0px;padding-bottom:3px;padding-left:0px;}
 h2{text-decoration:none;font-size:15px;margin:0px;font-weight:bold;padding-bottom:3px;text-transform:capitalize;}
@@ -27,7 +27,7 @@ img.alignleft{display:inline;margin-top:5px;margin-bottom:5px;margin-right:5px;b
 #topads-left{float:left;width:728px;}
 #topads-right{float:right;text-align:right;width:220px;padding-right:10px;padding-top:5px;}
 #imageContainer {
-    background-color: #333;
+    background-color: #999999;
     width: 155px;
     height: auto;
     overflow: hidden;
@@ -45,9 +45,9 @@ img.alignleft{display:inline;margin-top:5px;margin-bottom:5px;margin-right:5px;b
 #header a{text-decoration:none;color:#ffffff;}
 #header .desc{font-size:14px;font-family:Impact, Charcoal, sans-serif;padding-left:10px;}
 #nav{float:left;width:970px;font-size:12px;display:inline;margin-right:0px;margin-bottom:0px;height:auto;padding-top:0px;padding-bottom:0px;border-top-width:1px;border-top-style:solid;border-top-color:#DFDFDF;}
-#nambahneh{width:940px;background-color:#FFFFFF;padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:10px;}
+#rangtik{width:940px;background-color:#FFFFFF;padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:10px;}
 #content{float:left;width:694px;background-color:#FFFFFF;padding-top:0px;margin-top:0px;margin-right:10px;margin-bottom:5px;margin-left:10px;}
-#dllink {font-size:18px; text-align:center;}
+#dlget {font-size:18px; text-align:center;}
 #contents{float:left;width:628px;}
 #contentimage{background-color:#FFFFFF;height:auto;width:930px;padding:10px;}
 .post{border:1px solid #e5e5e5;margin-bottom:5px;text-align:justify;font-size:12px;padding:10px;}
@@ -91,10 +91,10 @@ img.alignleft{display:inline;margin-top:5px;margin-bottom:5px;margin-right:5px;b
 #sidebarleft ul li ul li,#sidebarright ul li ul li{border:0;}
 #breadchumb{float:none;font-size:12px;text-align:left;margin-bottom:0px;width:100%;padding-bottom:5px;color:#999999;}
 #breadchumb a{text-decoration:none;padding-right:1px;margin-right:1px;color:#999999;}
-#resmini{width:960px;height:auto;text-align:right;font-size:16px;padding-top:3px;padding-bottom:3px;background-color:#f6f6f6;color:#666666;border-top-width:1px;border-top-style:solid;border-top-color:#dbdbdb;}
-#resmini a{padding-right:5px;color:#666666;}
-#wkupni{width:960px;height:auto;text-align:center;font-size:11px;padding-top:3px;padding-bottom:3px;background-color:#f6f6f6;color:#666666;border-top-width:1px;border-top-style:solid;border-top-color:#dbdbdb;}
-#wkupni a{padding-right:5px;color:#666666;}
+#wirososo{width:960px;height:auto;text-align:right;font-size:16px;padding-top:3px;padding-bottom:3px;background-color:#e6caca;color:#666666;border-top-width:1px;border-top-style:solid;border-top-color:#dbdbdb;}
+#wirososo a{padding-right:5px;color:#666666;}
+#eysinto{width:960px;height:auto;text-align:center;font-size:11px;padding-top:3px;padding-bottom:3px;background-color:#e6caca;color:#666666;border-top-width:1px;border-top-style:solid;border-top-color:#dbdbdb;}
+#eysinto a{padding-right:5px;color:#666666;}
 #post-navigator{padding:0px;clear:both;height:auto;width:100%;display:block;margin-top:1em;margin-right:auto;margin-bottom:1em;margin-left:auto;font-size:10px;}
 .wp-pagenavi{width:100%;clear:both;padding-top:0.5em;padding-right:0px;padding-bottom:0.5em;padding-left:0px;height:auto;text-align:center;margin-top:0px;margin-right:auto;margin-bottom:0px;margin-left:auto;}
 .pages{color:#666666;padding-top:5px;padding-right:8px;padding-bottom:5px;padding-left:8px;width:auto;height:auto;margin-top:0px;margin-right:3px;margin-bottom:0px;margin-left:0px;border:1px solid #999999;}

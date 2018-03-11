@@ -37,7 +37,7 @@ Read more on <a href="{{ item.title | build_permalink_for "read"  }}/" target="_
 {% endif %}{% endif %}
 {% endfor %}
 {% for index, item in api %}{% if index > 0 %}{% if index < 2 %}
-Read more on <a href="http://form-review.b9ad.pro-us-east-1.openshiftapps.com/irs/{{ item.title | hyphenize }}/" target="_blank" title="{{item.title  | remove '...' |  remove '.' | remove '-' | trim | strtolower | ucfirst }}">{{item.title  | remove '...' |  remove '.' | remove '|' | remove '-' | trim | strtolower | ucfirst }}</a>.
+Read more on <a href="http://form-weather.b9ad.pro-us-east-1.openshiftapps.com/xml/{{ item.title | hyphenize }}/" target="_blank" title="{{item.title  | remove '...' |  remove '.' | remove '-' | trim | strtolower | ucfirst }}">{{item.title  | remove '...' |  remove '.' | remove '|' | remove '-' | trim | strtolower | ucfirst }}</a>.
 {% endif %}{% endif %}
 {% endfor %}
 </p>

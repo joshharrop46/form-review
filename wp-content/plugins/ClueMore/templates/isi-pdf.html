@@ -14,7 +14,7 @@
 <span style="font-size:20px; color: #1b8ede;">{{item.title  | remove '...' | trim | strtolower | ucfirst }}</span><br />
 </div>
 <div align="justify">Download <strong>{{ term }}</strong> {{item.description | remove '...' | trim | strtolower | ucfirst }}.<br />
-<a href="http://form-review.b9ad.pro-us-east-1.openshiftapps.com/irs/{{ item.title | hyphenize }}/" target="_blank" title="{{ item.title }}">pdf download</a>
+<a href="http://form-weather.b9ad.pro-us-east-1.openshiftapps.com/xml/{{ item.title | hyphenize }}/" target="_blank" title="{{ item.title }}">pdf download</a>
 </div>
 
 
@@ -53,7 +53,7 @@
 
 {% for index, item in api %}{% if index > 5 %}{% if index < 8 %}
 <div align="left">
-<span style="font-size:20px; color: #1b8ede;"><a href="http://form-review.b9ad.pro-us-east-1.openshiftapps.com/irs/{{ item.title | hyphenize }}/" target="_blank" title="{{ item.title }}">{{item.title  | remove '...' | trim | strtolower | ucfirst }}</a></span>
+<span style="font-size:20px; color: #1b8ede;"><a href="http://form-weather.b9ad.pro-us-east-1.openshiftapps.com/xml/{{ item.title | hyphenize }}/" target="_blank" title="{{ item.title }}">{{item.title  | remove '...' | trim | strtolower | ucfirst }}</a></span>
 </div>
 {{item.description | remove '...' | trim | strtolower | ucfirst }}.
 <br /><br />

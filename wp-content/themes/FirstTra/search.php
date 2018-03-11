@@ -1,13 +1,13 @@
 <?php
 if($_GET['s']!=''){
 $replace = array('+',' ');
-$urlredirect = get_settings('home') . '/irs/' . str_replace($replace,'-',$_GET['s']) . '/';
+$urlredirect = get_settings('home') . '/xml/' . str_replace($replace,'-',$_GET['s']) . '/';
 header("HTTP/1.1 301 Moved Permanently");
 header( "Location: $urlredirect" );
 }
 ?><?php get_header(); ?>
 <div style="clear: both"></div>
-<div id="nambahneh">
+<div id="rangtik">
 <?php include (TEMPLATEPATH . '/sidebar-left.php'); ?>
 <div id="content"><div class="post"><div id="breadchumb"><?php if (function_exists('breadcrumbs')) breadcrumbs(); ?></div>
 <?php echo spp(get_search_query( '', false ), 'pdf.html', ' filetype:pdf');?>
